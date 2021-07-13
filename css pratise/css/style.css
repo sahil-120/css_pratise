@@ -1,0 +1,33 @@
+body{
+    width: 600px;
+    margin: 20px auto;
+    font-family: sans-serif;
+}
+
+article h2{
+    font-size: 37px;
+    margin: 0px;
+}
+article img{
+    float:left;
+    margin-right: 25px;
+    line-height: 43px;
+}
+.preview{
+    float: right;
+   
+    width: 350px;
+}
+a{
+    color: #276056;
+    text-decoration: none;
+}
+.meta a{
+    font-style: italic;
+    font-size: 14px;
+
+}
+.meta li{
+    display: inline;
+    text-decoration: none;
+}
